@@ -1,0 +1,25 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "A simple todo Application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/un-stable/Todo-App.git"
+  },
+  "author": "akash mishra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/un-stable/Todo-App/issues"
+  },
+  "homepage": "https://github.com/un-stable/Todo-App#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}

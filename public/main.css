@@ -1,0 +1,24 @@
+.body{
+    background-color:green;
+    border: 2px;
+}
+.header{
+    background-color: black;
+    top: 0;
+    width: 100%;
+    color: aliceblue;
+}
+
+.footer{
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    margin:0
+}
+
+
+ 
+  
